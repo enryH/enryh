@@ -2,7 +2,8 @@
 
 I am a PhD student at the Novo Nordisk Foundation Center for Protein Research (NNF CPR) in Copenhagen. 
 
-Nearly all of my work you can find currently under the [github of the RasmussenLab](www.github.com/RassmussenLab). 
+Nearly all of my work you can find currently under the [github of the RasmussenLab](https://github.com/rasmussenlab). 
+
 
 Currently I'm working a lot on self-supervised deep learning models for MS-based proteomics imputation. 
 See the [PIMMS repository](https://github.com/RasmussenLab/pimms) and the [bioRxiv pre-print](https://www.biorxiv.org/content/10.1101/2023.01.12.523792v2).

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PostDoc at the Novo Nordisk Foundation Center for Protein Research (NNF CPR) in Copenhagen. 
+I am a PostDoc at the Novo Nordisk Foundation Center for Basic Metabolic Research (NNF CBMR) in Copenhagen. 
 
 Nearly all of my work you can find currently under the [github of the RasmussenLab](https://github.com/rasmussenlab). 
 
